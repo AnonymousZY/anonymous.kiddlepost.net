@@ -54,3 +54,12 @@ or
 ![1ABD3172-6957-448F-80F3-74A48F798A74](https://user-images.githubusercontent.com/105990582/171953619-2bc7d714-0647-4531-aa84-82bb6a95170e.jpeg)This is our logo.
 
 [Call](https://textnow.com/messaging) (Calls might be ignored) (929) 249-3803
+
+### Updates [NEW❗️]
+I have added updates, and there are a few of them, also some that will be added in the future.
+- [x] Using Jekll Layout
+- [x] Updated Description
+- [ ] Added Perks
+- [x] Login Access (Attempt)
+
+Other stuff will be added in the future.
